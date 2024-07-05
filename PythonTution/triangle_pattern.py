@@ -8,3 +8,8 @@ for i in range(1,x+1):
     print()
 
 # here i loop is used for changing lines and j loop is used for printing x or stars.....
+# x
+# x x 
+# x x x
+# # x x x x 
+# x x x x x 
