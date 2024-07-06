@@ -8,3 +8,5 @@ if(x>=33):
 
 else:
     print("You is fail. Better luck next time")
+
+# You have to enter the marks to check................
