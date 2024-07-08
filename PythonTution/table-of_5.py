@@ -6,5 +6,5 @@ for i in range(1,11):
 
 
 # it prints like 
-# 4 x 1 = 4
-# 4 x 2 = 8
+# 5 x 1 = 5
+# 5 x 2 = 10

@@ -1,10 +1,10 @@
-# Its a table of 5 which is developed by the simple codes....
+# Its a table of 6 which is developed by the simple codes....
 
 
 for i in range(1,11):
-    print("5 x",i,"=" ,5*i)
+    print("6 x",i,"=" ,6*i)
 
 
 # it prints like 
-# 4 x 1 = 4
-# 4 x 2 = 8
+# 6 x 1 = 6
+# 6 x 2 = 12
