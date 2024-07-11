@@ -8,3 +8,6 @@ sign = input("Enter the operator:-")
 y = int(input("Enter the 2nd number:-"))
 
 
+
+if(sign=="+"):
+    print(x+y)
