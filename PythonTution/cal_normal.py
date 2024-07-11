@@ -20,5 +20,3 @@ elif(sign=="*"):
 
 elif(sign=="/"):
     print(x/y)
-
-else:
