@@ -13,8 +13,8 @@ while(True):
     elif(z=="/"):
         div = lambda x,y:x/y
         print(div(x,y))
-    elif(z=="*"):
-        mul = lambda x,y:x*y
+    elif(z=="**"):
+        mul = lambda x,y:x**y
         print(mul(x,y))
     else:
         print("Please enter the right operator...")
