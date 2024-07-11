@@ -1,0 +1,1 @@
+# its a normal calculator made by while function ,.............,
