@@ -2,4 +2,9 @@
 
 
 x = int(input("Enter the 1st number:-"))
+
+sign = input("Enter the operator:-")
+
 y = int(input("Enter the 2nd number:-"))
+
+
