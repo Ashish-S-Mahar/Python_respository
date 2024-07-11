@@ -11,3 +11,14 @@ y = int(input("Enter the 2nd number:-"))
 
 if(sign=="+"):
     print(x+y)
+
+elif(sign=="-"):
+    print(x-y)
+
+elif(sign=="*"):
+    print(x*y)
+
+elif(sign=="/"):
+    print(x/y)
+
+else:
