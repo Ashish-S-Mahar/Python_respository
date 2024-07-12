@@ -7,3 +7,5 @@
 
 x = int(input("Enter the temprature in celsius:"))
 print("F = ",(x*9/5) + 32 )
+
+# galti se phele code k jagha formula lih dia tha 
