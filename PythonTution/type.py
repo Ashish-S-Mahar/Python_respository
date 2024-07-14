@@ -13,3 +13,5 @@ print(type(z))
 a = "a"
 print(ord(a))
 
+b = 65
+print(chr(b))
