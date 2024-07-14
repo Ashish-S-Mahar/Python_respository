@@ -15,3 +15,6 @@ print(ord(a))
 
 b = 65
 print(chr(b))
+
+c = type(x)
+print(c)
