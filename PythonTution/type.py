@@ -6,3 +6,6 @@ print(type(x))
 
 y = 7.5
 print(type(y))
+
+z = 8
+print(type(z))
