@@ -9,3 +9,7 @@ print(type(y))
 
 z = 8
 print(type(z))
+
+a = "a"
+print(ord(a))
+
