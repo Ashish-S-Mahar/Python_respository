@@ -2,3 +2,6 @@
 
 #  adding elements in list 
 
+li  = [1,4,7,8,25,2]
+
+li.append(122)             # add to list
