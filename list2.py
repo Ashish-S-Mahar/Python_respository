@@ -13,4 +13,4 @@ li.clear()      # for clear list
 
 #  for printing list 
 
-print(list)
+print(li)
