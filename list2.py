@@ -9,5 +9,7 @@ li.append(122)             # add to list
 
 #  for clear list 
 
-
 li.clear()      # for clear list
+
+#  for printing list 
+
