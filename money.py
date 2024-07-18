@@ -1,2 +1,3 @@
 #  Its a file in which we count change money.....
 
+x = int(input("Enter total Amount :-     "))
