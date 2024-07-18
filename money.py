@@ -41,3 +41,85 @@ t_hun = 200                 # element containing money......
 f_hun = 500                 # element containing money......
 
 t_thous = 2000              # element containing money......
+
+while(True):
+
+
+    if(x <= 0 ):
+
+        print("Please enter valid amount")
+
+
+    elif(one <= x):
+
+        one += 1
+
+        rs1+= 1
+
+
+    elif(two <= x):
+
+        two += 2
+
+        rs2+= 1
+
+        
+    elif(five <= x):
+
+        five += 5
+
+        rs5+= 1
+
+        
+    elif(ten <= x):
+
+        ten += 10
+
+        rs10+= 1
+
+
+    elif(twenty <= x):
+
+        twenty += 20
+
+        rs20+= 1
+
+        
+    elif(fifty <= x):
+
+        fifty += 50
+
+        rs50+= 1
+
+        
+    elif(hundred <= x):
+
+        hundred += 100
+
+        rs100+= 1
+
+        
+    elif(t_hun <= x):
+
+        t_hun += 200
+
+        rs200+= 1
+
+        
+    elif(f_hun <= x):
+
+        f_hun += 500
+
+        rs500+= 1
+
+        
+    elif(t_thous <= x):
+
+        t_thous += 2000
+
+        rs2000+= 1
+
+
+    else:
+
+        break
