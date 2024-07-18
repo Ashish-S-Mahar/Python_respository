@@ -123,3 +123,26 @@ while(True):
     else:
 
         break
+
+
+
+
+print(  "Total no. of notes/coins of 1 is       ",  rs1     )
+
+print(  "Total no. of coins of 2 is             ",  rs2     )
+
+print(  "Total no. of notes/coins of 5 is       ",  rs5     )
+
+print(  "Total no. of notes/coins of 10 is      ",  rs10    )
+
+print(  "Total no. of notes/coins of 10 is      ",  rs20    )
+
+print(  "Total no. of notes of 50 is            ",  rs50    )
+
+print(  "Total no. of notes of 100 is           ",  rs100   )
+
+print(  "Total no. of notes of 200 is           ",  rs200   )
+
+print(  "Total no. of notes of 500 is           ",  rs500   )
+
+print(  "Total no. of notes of 2000 is          ",  rs2000  )
