@@ -56,3 +56,8 @@ if(two <= x):
 if(one <= x):
     x = x // 1
     count1 += x % 1
+
+
+else:
+    print("Enter valid amount....")
+
