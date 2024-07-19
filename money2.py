@@ -31,6 +31,28 @@ if(hun <= x):
     x = x // hun
     count100 += x % 100
 
+
 if(fifty <= x):
     x = x // fifty
     count50 += x%50
+
+if(twenty <= x):
+    x = x // 20
+    count20 += x % 20
+
+if(ten <= x):
+    x = x // 10
+    count10 += x % 10
+
+
+if(five <= x):
+    x = x // 5
+    count5 += x % 5
+
+if(two <= x):
+    x = x // 2
+    count2 += x % 2
+
+if(one <= x):
+    x = x // 1
+    count1 += x % 1
