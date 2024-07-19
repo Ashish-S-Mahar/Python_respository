@@ -13,3 +13,9 @@ count10 = 0
 count5 = 0
 count2 = 0
 count1 = 0
+
+
+
+if(two000<= x):
+    x = x // two000
+    count2000 += x%2000
