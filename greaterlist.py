@@ -12,3 +12,6 @@ def func(list):
             lar = li
     print(lar)
 func(list)
+
+
+# adding two list without using append
