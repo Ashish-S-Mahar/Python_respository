@@ -15,3 +15,12 @@ func(list)
 
 
 # adding two list without using append
+
+
+list = [12,34,23,56]
+print(list)
+li = [0]
+x = int(input("Enter the value... "))
+li[0] = x 
+y = li + list
+print(y)
