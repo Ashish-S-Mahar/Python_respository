@@ -24,3 +24,4 @@ x = int(input("Enter the value... "))
 li[0] = x 
 y = li + list
 print(y)
+
